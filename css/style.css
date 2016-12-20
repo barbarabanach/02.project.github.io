@@ -94,7 +94,7 @@ div.slogan {
 	top: 140px;
 	right: 0px;
 	float: right;
-	background: url(http://i.imgur.com/IkAfJnK.jpg);
+	background: url('../images/computer-background.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -348,7 +348,7 @@ img {
 
 .max-container {
 	width: 100%;
-	background-image: url('http://i.imgur.com/tDrk9mv.jpg');
+	background-image: url('../images/background-tablet.jpg');
 }
 
 .section-container {
